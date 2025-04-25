@@ -3,7 +3,7 @@ from telegram.ext import Application, MessageHandler, filters, CallbackContext
 import random
 
 # Replace with your bot token
-BOT_TOKEN = "YOUR_BOT_TOKEN"
+BOT_TOKEN = "7828550293:AAHQK64NpZdRSDhAhDdOo2ZOrWu-OKO8G1I"
 
 # List of abusive replies
 ABUSE_LIST = [
